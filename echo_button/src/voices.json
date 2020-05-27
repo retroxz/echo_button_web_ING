@@ -1,0 +1,352 @@
+{
+    "voices": [
+	        {
+            "categoryName": "tongyong",
+            "categoryDescription": {
+                "zh-CN": "软桃",
+                "ja-JP": "软桃"
+            },
+            "voiceList": [
+                {
+                    "name": "c1",
+                    "path": "c01.mp3",
+                    "description": {
+                        "zh-CN": "笨蛋",
+                        "ja-JP": "笨蛋",
+                        "en-US": "笨蛋"
+                    }
+                },
+				{
+                    "name": "c2",
+                    "path": "c02.aac",
+                    "description": {
+                        "zh-CN": "呲溜",
+                        "ja-JP": "呲溜",
+                        "en-US": "呲溜"
+                    }
+                },
+ 				{
+                    "name": "c3",
+                    "path": "c03.mp3",
+                    "description": {
+                        "zh-CN": "木阿~",
+                        "ja-JP": "木阿~",
+                        "en-US": "木阿~"
+                    }
+                },
+ 				{
+                    "name": "c4",
+                    "path": "c04.mp3",
+                    "description": {
+                        "zh-CN": "木啊 木啊~",
+                        "ja-JP": "木啊 木啊~",
+                        "en-US": "木啊 木啊~"
+                    }
+                }, 				                
+                {
+                    "name": "a1",
+                    "path": "01-1.mp3",
+                    "description": {
+                        "zh-CN": "啊",
+                        "ja-JP": "あ!",
+                        "en-US": "Aa"
+                    }
+                },	
+                {
+                    "name": "c5",
+                    "path": "c05.mp3",
+                    "description": {
+                        "zh-CN": "echo要不行了",
+                        "ja-JP": "echo要不行了",
+                        "en-US": "echo要不行了"
+                    }
+                },
+                {
+                    "name": "c6",
+                    "path": "c06.mp3",
+                    "description": {
+                        "zh-CN": "不要再打了",
+                        "ja-JP": "不要再打了",
+                        "en-US": "不要再打了"
+                    }
+                }					
+
+            ]
+        },
+	        {
+            "categoryName": "null",
+            "categoryDescription": {
+                "zh-CN": "通用",
+                "ja-JP": "通用"
+            },
+            "voiceList": [
+                {
+                    "name": "d1",
+                    "path": "d01.mp3",
+                    "description": {
+                        "zh-CN": "擦盘子耐久",
+                        "ja-JP": "擦盘子耐久",
+                        "en-US": "擦盘子耐久"
+                    }
+                },
+				{
+                    "name": "d2",
+                    "path": "d02.mp3",
+                    "description": {
+                        "zh-CN": "出租车司机lao路",
+                        "ja-JP": "出租车司机lao路",
+                        "en-US": "出租车司机lao路"
+                    }
+                },
+ 				{
+                    "name": "d3",
+                    "path": "d03.mp3",
+                    "description": {
+                        "zh-CN": "哈↑哈↑哈↑哈↑哈↑",
+                        "ja-JP": "哈↑哈↑哈↑哈↑哈↑",
+                        "en-US": "哈↑哈↑哈↑哈↑哈↑"
+                    }
+                },
+ 				{
+                    "name": "d4",
+                    "path": "d04.mp3",
+                    "description": {
+                        "zh-CN": "死处男",
+                        "ja-JP": "死处男",
+                        "en-US": "死处男"
+                    }
+                }, 				                
+                {
+                    "name": "d5",
+                    "path": "d05.mp3",
+                    "description": {
+                        "zh-CN": "幼不幼稚",
+                        "ja-JP": "幼不幼稚",
+                        "en-US": "幼不幼稚"
+                    }
+                },		
+                {
+                    "name": "d6",
+                    "path": "d06.mp3",
+                    "description": {
+                        "zh-CN": "挑衅超管",
+                        "ja-JP": "挑衅超管",
+                        "en-US": "挑衅超管"
+                    }
+                },	
+                {
+                    "name": "d7",
+                    "path": "d07.mp3",
+                    "description": {
+                        "zh-CN": "hololive hololive",
+                        "ja-JP": "hololive hololive",
+                        "en-US": "hololive hololive"
+                    }
+                },
+								{
+                    "name": "a2",
+                    "path": "01-2.mp3",
+                    "description": {
+                        "zh-CN": "行行行行行行行行",
+                        "ja-JP": "行行行行行行行行",
+                        "en-US": "行行行行行行行行"
+                    }
+                },
+				 				{
+                    "name": "a3",
+                    "path": "01-3.mp3",
+                    "description": {
+                        "zh-CN": "好好好",
+                        "ja-JP": "好好好",
+                        "en-US": "好好好"
+                    }
+                }
+            ]
+        },
+			        {
+            "categoryName": "hso",
+            "categoryDescription": {
+                "zh-CN": "hso",
+                "ja-JP": "hso"
+            },
+            "voiceList": [
+                {
+                    "name": "e1",
+                    "path": "e01.mp3",
+                    "description": {
+                        "zh-CN": "拔不出来了",
+                        "ja-JP": "拔不出来了",
+                        "en-US": "拔不出来了"
+                    }
+                },
+				{
+                    "name": "e2",
+                    "path": "e02.mp3",
+                    "description": {
+                        "zh-CN": "快点记住这种感觉",
+                        "ja-JP": "快点记住这种感觉",
+                        "en-US": "快点记住这种感觉"
+                    }
+                },
+ 				{
+                    "name": "e3",
+                    "path": "e03.mp3",
+                    "description": {
+                        "zh-CN": "好色喔多来点",
+                        "ja-JP": "好色喔多来点",
+                        "en-US": "好色喔多来点"
+                    }
+                },
+ 				{
+                    "name": "e4",
+                    "path": "e04.mp3",
+                    "description": {
+                        "zh-CN": "好康的",
+                        "ja-JP": "好康的",
+                        "en-US": "好康的"
+                    }
+                }, 				                
+                {
+                    "name": "e5",
+                    "path": "e05.mp3",
+                    "description": {
+                        "zh-CN": "去毛",
+                        "ja-JP": "去毛",
+                        "en-US": "去毛"
+                    }
+                },		
+                {
+                    "name": "e6",
+                    "path": "e06.mp3",
+                    "description": {
+                        "zh-CN": "因为echo很色",
+                        "ja-JP": "因为echo很色",
+                        "en-US": "因为echo很色"
+                    }
+					},
+                {
+                    "name": "e7",
+                    "path": "e07.mp3",
+                    "description": {
+                        "zh-CN": "休息还是手冲",
+                        "ja-JP": "休息还是手冲",
+                        "en-US": "休息还是手冲"
+                    }
+                },
+				 				{
+                    "name": "a4",
+                    "path": "01-4.mp3",
+                    "description": {
+                        "zh-CN": "呼吸",
+                        "ja-JP": "呼吸",
+                        "en-US": "呼吸"
+                    }
+                },
+								{
+                    "name": "a5",
+                    "path": "01-5.mp3",
+                    "description": {
+                        "zh-CN": "来啦来啦来啦 呼吸 来啦",
+                        "ja-JP": "来啦来啦来啦 呼吸 来啦",
+                        "en-US": "来啦来啦来啦 呼吸 来啦"
+                    }
+                }, 	
+								{
+                    "name": "a6",
+                    "path": "01-6.mp3",
+                    "description": {
+                        "zh-CN": "现在学妹已经是我的形状啦哈哈",
+                        "ja-JP": "现在学妹已经是我的形状啦哈哈",
+                        "en-US": "现在学妹已经是我的形状啦哈哈"
+                    }
+                },
+								{
+                    "name": "a7",
+                    "path": "01-7.mp3",
+                    "description": {
+                        "zh-CN": "学妹！",
+                        "ja-JP": "学妹！",
+                        "en-US": "学妹！"
+                    }
+                },
+				{
+                    "name": "e8",
+                    "path": "e08.mp3",
+                    "description": {
+                        "zh-CN": "E cup",
+                        "ja-JP": "E cup",
+                        "en-US": "E cup"
+                    }
+                }
+				
+            ]
+        },
+        
+{
+            "categoryName": "konghuang",
+            "categoryDescription": {
+                "zh-CN": "恐慌",
+                "ja-JP": "恐慌"
+            },
+            "voiceList": [
+                {
+                    "name": "b1",
+                    "path": "b01.mp3",
+                    "description": {
+                        "zh-CN": "奶狗呼吸",
+                        "ja-JP": "奶狗呼吸",
+                        "en-US": "奶狗呼吸"
+                    }
+                },
+				{
+                    "name": "b2",
+                    "path": "b02.mp3",
+                    "description": {
+                        "zh-CN": "妈！！！！",
+                        "ja-JP": "妈！！！！",
+                        "en-US": "妈！！！！"
+                    }
+                },
+ 				{
+                    "name": "b3",
+                    "path": "b03.mp3",
+                    "description": {
+                        "zh-CN": "妈妈救命",
+                        "ja-JP": "妈妈救命",
+                        "en-US": "妈妈救命"
+                    }
+                },
+ 				{
+                    "name": "b4",
+                    "path": "b04.mp3",
+                    "description": {
+                        "zh-CN": "妈妈妈妈",
+                        "ja-JP": "妈妈妈妈",
+                        "en-US": "妈妈妈妈"
+                    }
+                }, 				                
+				{
+                    "name": "b5",
+                    "path": "b05.mp3",
+                    "description": {
+                        "zh-CN": "尖叫（最高）",
+                        "ja-JP": "尖叫（最高）",
+                        "en-US": "尖叫（最高）"
+                    }
+                }, 				
+				{
+                    "name": "b6",
+                    "path": "b06.mp3",
+                    "description": {
+                        "zh-CN": "这都能死？不可能！！！",
+                        "ja-JP": "这都能死？不可能！！！",
+                        "en-US": "这都能死？不可能！！！"
+                    }
+                }				                
+
+            ]
+        }
+                   
+
+    ]
+}

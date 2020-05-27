@@ -1,0 +1,11 @@
+# IDE
+.idea
+*.sublime-project
+*.sublime-workspace
+
+#os
+.DS_Store
+thumbs.db
+
+#node
+node_modules
